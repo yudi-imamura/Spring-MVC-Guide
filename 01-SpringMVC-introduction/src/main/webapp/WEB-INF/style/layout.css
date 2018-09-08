@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+h3{
+	text-align: center;
+	padding-left: 50px;
+	position: relative;
+}
+
+#gerarId{
+float: left;	
+margin-top: 10px;
+}
